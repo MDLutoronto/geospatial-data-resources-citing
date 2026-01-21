@@ -1,13 +1,14 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Citing geospatial data resources"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Citing geospatial data resources
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+[This guide, compiled by Alberta Auringer Wood of the Association of Canadian Map Libraries and Archives, provides recommended citation formats for a wide variety of geospatial data sources.](http://www.acmla-acacc.ca/docs/ACMLA_BestPracticesCitations.pdf)
+
+Additionally, if using Esri products (e.g. ArcGIS Online) or Esri data, please consult this [guide on How to Cite ArcGIS Maps and Data](https://resources.esri.ca/education-and-research/how-to-cite-arcgis-maps-and-data).
+
+Discipline: [Architecture, Landscape \& Design](/discipline/architecture-landscape-design), [History](/discipline/history), [Public Health](/discipline/public-health) \| Technique: [Citing data](/technique/citing-data) \| Data Format: [Paper maps](/data-format/paper-maps), [Raster](/data-format/raster), [Vector](/data-format/vector)**Date Created:** 2016\-04\-12**Updated:** 2024\-10\-04
